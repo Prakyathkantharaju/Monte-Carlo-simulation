@@ -1,0 +1,6 @@
+please run the main.m script for solving montecarlo simulation of Element BD
+               pure_displacement.m script for only displacement using FEM method 
+               Echange_2elem.m script for montecarlo simulation of 2 elements BD and AB
+simulation time for the D_problem.m is 15-20s,
+also please make sure that all 5 functions and 3 script file is in the same folder.
+the E changes with normal distribution
