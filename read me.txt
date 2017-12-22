@@ -1,3 +1,4 @@
+This project is done using matlab 2017b
 please run the main.m script for solving montecarlo simulation of Element BD
                pure_displacement.m script for only displacement using FEM method 
                Echange_2elem.m script for montecarlo simulation of 2 elements BD and AB
